@@ -1,0 +1,2 @@
+# WordGen
+Simple word generation.
