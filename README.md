@@ -1,2 +1,2 @@
 # WordGen
-Simple word generation.
+Simple, customisable word-selection from provided dictionary files.
